@@ -50,11 +50,10 @@
       }
     },
     {
-      "properties":{
-        "Lokasi": "Puskesmas Tegalrejo"
-      },
       "type": "Feature",
-      "properties": {},
+      "properties": {
+         "Lokasi": "Puskesmas Tegalrejo"
+      },
       "geometry": {
         "coordinates": [
           110.3328656502755,
@@ -65,7 +64,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+         "Lokasi": "Puskesmas Tegalrejo"
+      },
       "geometry": {
         "coordinates": [
           110.3628427063138,
