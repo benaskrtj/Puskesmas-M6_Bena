@@ -1,0 +1,265 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "puskesmas":"Puskesmas Mantrijeron"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36334479659519,
+          -7.810392676507234
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "puskesmas":"Puskesmas Tegalrejo"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36197150566406,
+          -7.758688536173714
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "puskesmas":"Puskesmas Gondokusuman II"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37433112404418,
+          -7.766852771551074
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "puskesmas":"Puskesmas Umbulharjo II Kota Yogyakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3928705516144,
+          -7.7879429781469
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "puskesmas":"Puskesmas Mlati I"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36815131485412,
+          -7.740998815972656
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "puskesmas":"Puskesmas Mlati II"
+      },
+      "geometry": {
+        "coordinates": [
+          110.32832587785148,
+          -7.719906256297277
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "puskesmas" : "Puskesmas Wirogunan"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37501776950975,
+          -7.799508124736826
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "puskesmas":"Puskesmas Mergangsan"
+      },
+      "geometry": {
+        "coordinates": [
+            110.37501776950975,
+          -7.794746044250077 
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "puskesmas":"Puskesmas Piyungan"
+      },
+      "geometry": {
+        "coordinates": [
+            110.46428168003294,
+          -7.815834846058448
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "puskesmas":"Puskesmas Kasihan 1"
+      },
+      "geometry": {
+        "coordinates": [
+            110.31321967760908,
+          -7.824678220227149
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "puskesmas":"Puskesmas Wirobrajan"
+      },
+      "geometry": {
+        "coordinates": [
+            110.34892524181836,
+          -7.800868709205497
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "puskesmas":"Puskesmas Danurejan II Yogyakarta"
+      },
+      "geometry": {
+        "coordinates": [
+            110.377764351372,
+          -7.762090320186626
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "puskesmas":"Puskesmas Gondomanan"
+      },
+      "geometry": {
+        "coordinates": [
+            110.3673637544407,
+          -7.768805237726801
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "puskesmas":"Puskesmas Kraton"
+      },
+      "geometry": {
+        "coordinates": [
+            110.36873704537182,
+          -7.782411880704093
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "puskesmas":"Puskesmas Kotagede 1"
+      },
+      "geometry": {
+        "coordinates": [
+            110.41268235516785,
+          -7.783772520725683
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "puskesmas":"Puskesmas Kotagede 2 Yogyakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          110.39208299120098,
+          -7.782411880704093
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "puskesmas":"Puskesmas Jetis Kota Yogyakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36540473299186,
+          -7.773656179833095
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "puskesmas":"Puskesmas Sewon 1"
+      },
+      "geometry": {
+        "coordinates": [
+          110.35373176007731,
+          -7.84236440565258
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "puskesmas" : "Puskesmas Gedongtengen Kota Yogyakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          110.35716498740511,
+          -7.783180766134025
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "puskesmas":"Puskesmas Ngampilan"
+      },
+      "geometry": {
+        "coordinates": [
+            110.3563774269917,
+          -7.782411880704093
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
